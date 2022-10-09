@@ -1,0 +1,7 @@
+type Profile @entity {
+  id: ID!
+  tokenID: BigInt
+  Idioma: String!
+  Gender: String!
+  Developer: String!
+}
