@@ -1,4 +1,4 @@
-.group-122 {
+.coinbase-login-1 {
   align-items: flex-end;
   background-color: var(--lavender);
   border: 1px none;
@@ -6,19 +6,16 @@
   display: flex;
   height: 71px;
   justify-content: flex-end;
-  margin-left: 44px;
+  margin-left: 14.92px;
+  margin-top: 13px;
   min-width: 107px;
   padding: 16.3px 34.0px;
 }
 
-.group-119-2 {
+.group-119-1 {
   background-position: 50% 50%;
   background-size: cover;
   height: 38px;
   width: 38px;
-}
-
-.group-122.coinbase-login {
-  margin-left: 0.74px;
 }
 

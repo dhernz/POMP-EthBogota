@@ -1,0 +1,27 @@
+.avatar,
+.avatar-1,
+.avatar-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--kimberly);
+  border-radius: 37.5px;
+  display: flex;
+  height: 75px;
+  left: 26px;
+  min-width: 75px;
+  padding: 14.8px 16.8px;
+  position: absolute;
+  top: 16px;
+}
+
+.ab,
+.ab-1,
+.ab-2 {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 17px;
+  text-align: center;
+  width: 38px;
+}
+

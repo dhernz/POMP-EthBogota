@@ -6,9 +6,7 @@ function Input(props) {
 
   return (
     <div className={`input ${className || ""}`}>
-      <div className="text-field">
-        <p className="enter-your-community-code-here inter-normal-black-15px">Enter your community code here...</p>
-      </div>
+      <div className="text-field"></div>
     </div>
   );
 }

@@ -1,6 +1,4 @@
-.dropdown,
-.dropdown-1,
-.dropdown-2 {
+.dropdown-1 {
   align-items: center;
   background-color: var(--zircon);
   border: 1px solid;
@@ -13,13 +11,76 @@
   min-width: 106px;
   padding: 0 16px;
   position: absolute;
-  top: 0;
+  top: 64px;
 }
 
-.vector,
-.vector-1,
-.vector-2 {
+.vector {
   height: 5px;
   width: 10px;
+}
+
+.dropdown-1.dropdown-2,
+.dropdown-1.dropdown-12,
+.dropdown-1.dropdown-24,
+.dropdown-1.dropdown-34 {
+  top: 96px;
+}
+
+.dropdown-1.dropdown-3,
+.dropdown-1.dropdown-13,
+.dropdown-1.dropdown-25,
+.dropdown-1.dropdown-35 {
+  top: 128px;
+}
+
+.dropdown-1.dropdown-4,
+.dropdown-1.dropdown-14,
+.dropdown-1.dropdown-26,
+.dropdown-1.dropdown-36 {
+  top: 160px;
+}
+
+.dropdown-1.dropdown-5,
+.dropdown-1.dropdown-15,
+.dropdown-1.dropdown-27,
+.dropdown-1.dropdown-37 {
+  top: 224px;
+}
+
+.dropdown-1.dropdown-6,
+.dropdown-1.dropdown-16,
+.dropdown-1.dropdown-28,
+.dropdown-1.dropdown-38 {
+  top: 192px;
+}
+
+.dropdown-1.dropdown-7,
+.dropdown-1.dropdown-17,
+.dropdown-1.dropdown-29,
+.dropdown-1.dropdown-39 {
+  top: 256px;
+}
+
+.dropdown-1.dropdown-8,
+.dropdown-1.dropdown-18,
+.dropdown-1.dropdown-30,
+.dropdown-1.dropdown-40 {
+  top: 288px;
+}
+
+.dropdown-1.dropdown-9,
+.dropdown-1.dropdown-19,
+.dropdown-1.dropdown-22,
+.dropdown-1.dropdown-31,
+.dropdown-1.dropdown-41 {
+  top: 32px;
+}
+
+.dropdown-1.dropdown-10,
+.dropdown-1.dropdown-20,
+.dropdown-1.dropdown,
+.dropdown-1.dropdown-32,
+.dropdown-1.dropdown-42 {
+  top: 0;
 }
 

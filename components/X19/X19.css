@@ -1,0 +1,110 @@
+.x1-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 365px;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group2-3 {
+  align-self: center;
+  height: 375px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 342px;
+}
+
+.ant-designmenu-outlined-1 {
+  height: 25px;
+  left: 312px;
+  position: absolute;
+  top: 27px;
+  width: 25px;
+}
+
+.overlap-group-3 {
+  height: 375px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.logo-sin-fondo-2-1 {
+  height: 160px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.rectangle-34-3 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 254px;
+  left: 23px;
+  position: absolute;
+  top: 121px;
+  width: 319px;
+}
+
+.welcome {
+  left: 139px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 137px;
+}
+
+.your-dynamic-nft-val {
+  left: 63px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  top: 175px;
+  width: 270px;
+}
+
+.you-can-start-looking-for-mentors-now {
+  left: 109px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 247px;
+  width: 162px;
+}
+
+.overlap-group1-3 {
+  height: 85px;
+  margin-left: -68px;
+  position: relative;
+  width: 501px;
+}
+
+.rectangle-63-1 {
+  background-color: var(--porsche);
+  border: 1px none;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 501px;
+}
+
+.social-footer-3 {
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+

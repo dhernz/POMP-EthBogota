@@ -1,0 +1,134 @@
+.x4-date-reminder {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group1-9 {
+  height: 825px;
+  margin-left: -68px;
+  position: relative;
+  width: 501px;
+}
+
+.ant-designmenu-outlined-5 {
+  height: 25px;
+  left: 401px;
+  position: absolute;
+  top: 27px;
+  width: 25px;
+}
+
+.overlap-group-9 {
+  height: 825px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.rectangle-62-4 {
+  border: 1px none;
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 717px;
+  left: 104px;
+  position: absolute;
+  top: 68px;
+  width: 319px;
+}
+
+.rectangle-63-5 {
+  background-color: var(--porsche);
+  border: 1px none;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 788px;
+  width: 501px;
+}
+
+.social-footer-9 {
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 740px;
+  width: 320px;
+}
+
+.logo-sin-fondo-2-5 {
+  height: 134px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.rectangle-34-8 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 57px;
+  left: 108px;
+  position: absolute;
+  top: 95px;
+  width: 319px;
+}
+
+.mentoring-session-info {
+  left: 167px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 111px;
+}
+
+.rectangle-65 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 57px;
+  left: 108px;
+  position: absolute;
+  top: 260px;
+  width: 319px;
+}
+
+.faq {
+  left: 250px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 276px;
+}
+
+.rectangle-64 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 57px;
+  left: 108px;
+  position: absolute;
+  top: 175px;
+  width: 319px;
+}
+
+.reschedule-session {
+  left: 180px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 191px;
+}
+

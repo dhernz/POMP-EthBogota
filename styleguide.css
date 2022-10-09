@@ -1,7 +1,7 @@
 :root { 
   --alto: #d9d9d9;
   --black: #000000;
-  --black-2: #000000ab;
+  --black-2: #00000080;
   --kimberly: #736c9e;
   --kimberly-2: #736c9e80;
   --lavender: #b583cb;
@@ -10,19 +10,23 @@
   --white: #ffffff;
   --zircon: #f3f8ff;
  
-  --font-size-l: 15px;
+  --font-size-l: 16px;
   --font-size-m: 14px;
   --font-size-s: 12px;
-  --font-size-xl: 16px;
-  --font-size-xxl: 18px;
-  --font-size-xxxl: 20px;
-  --font-size-xxxxl: 36px;
+  --font-size-xl: 18px;
  
-  --font-family-dm_sans-bold: "DM Sans-Bold", Helvetica;
+  --font-family-dm_sans: "DM Sans", Helvetica;
   --font-family-inter: "Inter", Helvetica;
-  --font-family-inter-semibold: "Inter-SemiBold", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
 }
+.inter-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .inter-normal-white-14px {
   color: var(--white);
   font-family: var(--font-family-inter);
@@ -34,15 +38,15 @@
 .inter-bold-white-18px {
   color: var(--white);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 700;
 }
 
-.inter-normal-black-14px {
+.inter-normal-black-12px {
   color: var(--black);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
 }
@@ -50,25 +54,17 @@
 .inter-bold-kimberly-18px {
   color: var(--kimberly);
   font-family: var(--font-family-inter);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.dmsans-bold-kimberly-12px {
-  color: var(--kimberly);
-  font-family: var(--font-family-dm_sans-bold);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.inter-bold-kimberly-16px {
-  color: var(--kimberly);
-  font-family: var(--font-family-inter);
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 700;
+}
+
+.roboto-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .roboto-normal-white-14px {
@@ -79,10 +75,26 @@
   font-weight: 400;
 }
 
-.inter-normal-black-15px {
-  color: var(--black-2);
+.inter-bold-kimberly-16px {
+  color: var(--kimberly);
   font-family: var(--font-family-inter);
   font-size: var(--font-size-l);
   font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-14px-2 {
+  color: var(--black-2);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
   font-weight: 400;
+}
+
+.inter-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
 }
