@@ -51,7 +51,7 @@ function App() {
           </Route>
           <Route path="/1-2-show-nfts">
             <X12ShowNfts
-              x12ShowNfts="/img/gradient-pomp-3-1@1x.png"
+              x12ShowNfts="/static/images/img/gradient-pomp-3-1@1x.png"
               ab="AB"
               menu="/img/menu@2x.png"
               filter="Filter"
