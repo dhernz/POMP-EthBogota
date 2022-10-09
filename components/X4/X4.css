@@ -1,0 +1,115 @@
+.x4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group1-1 {
+  height: 825px;
+  margin-left: -68px;
+  position: relative;
+  width: 501px;
+}
+
+.ant-designmenu-outlined-1 {
+  height: 25px;
+  left: 401px;
+  position: absolute;
+  top: 27px;
+  width: 25px;
+}
+
+.overlap-group-4 {
+  height: 825px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 501px;
+}
+
+.rectangle-62-1 {
+  border: 1px none;
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 717px;
+  left: 104px;
+  position: absolute;
+  top: 68px;
+  width: 319px;
+}
+
+.rectangle-63-1 {
+  background-color: var(--porsche);
+  border: 1px none;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 788px;
+  width: 501px;
+}
+
+.social-footer-4 {
+  height: 80px;
+  left: 100px;
+  position: absolute;
+  top: 740px;
+  width: 320px;
+}
+
+.logo-sin-fondo-2-1 {
+  height: 134px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 169px;
+}
+
+.rectangle-34-1 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 32px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 254px;
+  left: 108px;
+  position: absolute;
+  top: 95px;
+  width: 319px;
+}
+
+.welcome {
+  left: 224px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 111px;
+}
+
+.your-dynamic-nft-val {
+  left: 148px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  top: 149px;
+  width: 270px;
+}
+
+.you-can-start-looking-for-mentors-now {
+  color: var(--black);
+  font-family: var(--font-family-inter-semibold);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  left: 194px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 221px;
+  width: 162px;
+}
+

@@ -1,0 +1,22 @@
+.group-126 {
+  align-items: flex-end;
+  background-color: var(--lavender);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  height: 71px;
+  margin-left: 34px;
+  min-width: 107px;
+  padding: 16.4px 34.7px;
+}
+
+.image-18 {
+  height: 37px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.group-126.wallet-connect-login {
+  margin-left: unset;
+}
+

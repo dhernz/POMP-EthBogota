@@ -1,0 +1,22 @@
+.start {
+  align-items: flex-start;
+  background-color: var(--porsche);
+  border: 1px none;
+  border-radius: 16px;
+  box-shadow: 0px 4px 14px #0000001a;
+  display: flex;
+  height: 60px;
+  left: 405px;
+  min-width: 226px;
+  padding: 18px 90px;
+  position: absolute;
+  top: 193px;
+}
+
+.title {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 45px;
+  text-align: center;
+}
+

@@ -1,0 +1,25 @@
+.dropdown,
+.dropdown-1,
+.dropdown-2 {
+  align-items: center;
+  background-color: var(--zircon);
+  border: 1px solid;
+  border-color: var(--star-dust);
+  border-radius: 8px;
+  display: flex;
+  height: 23px;
+  justify-content: flex-end;
+  left: 159px;
+  min-width: 106px;
+  padding: 0 16px;
+  position: absolute;
+  top: 0;
+}
+
+.vector,
+.vector-1,
+.vector-2 {
+  height: 5px;
+  width: 10px;
+}
+

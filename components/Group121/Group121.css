@@ -1,0 +1,30 @@
+.group-121,
+.metamask-login {
+  align-items: flex-end;
+  background-color: var(--lavender);
+  border: 1px none;
+  border-radius: 8px;
+  display: flex;
+  height: 71px;
+  min-width: 107px;
+  padding: 11.4px 30px;
+}
+
+.group-119,
+.group-119-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 23.43px;
+  display: flex;
+  height: 47px;
+  min-width: 47px;
+  padding: 9.2px 9.2px;
+}
+
+.image-17,
+.image-17-1 {
+  height: 28px;
+  object-fit: cover;
+  width: 28px;
+}
+
